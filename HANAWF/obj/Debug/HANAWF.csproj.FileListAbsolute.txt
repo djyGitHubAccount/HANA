@@ -1,0 +1,10 @@
+D:\自研Case\HANAWF\HANAWF\bin\Debug\HANAWF.exe.config
+D:\自研Case\HANAWF\HANAWF\bin\Debug\HANAWF.exe
+D:\自研Case\HANAWF\HANAWF\bin\Debug\HANAWF.pdb
+D:\自研Case\HANAWF\HANAWF\obj\Debug\HANAWF.Form1.resources
+D:\自研Case\HANAWF\HANAWF\obj\Debug\HANAWF.Properties.Resources.resources
+D:\自研Case\HANAWF\HANAWF\obj\Debug\HANAWF.csproj.GenerateResource.cache
+D:\自研Case\HANAWF\HANAWF\obj\Debug\HANAWF.csproj.CoreCompileInputs.cache
+D:\自研Case\HANAWF\HANAWF\obj\Debug\HANAWF.exe
+D:\自研Case\HANAWF\HANAWF\obj\Debug\HANAWF.pdb
+D:\自研Case\HANAWF\HANAWF\obj\Debug\HANAWF.csprojAssemblyReference.cache
